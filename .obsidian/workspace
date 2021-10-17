@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6785d7ed7cf412ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91fdb7c194b9dff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript learnings.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e7d6155f0414d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "398c2dabc233ba46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec58f097f754b83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62452c48aaf6a3af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d5c99f3947a7ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f5d1813ab57ed80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4598911073d84132",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript learnings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c91fdb7c194b9dff",
+  "lastOpenFiles": [
+    "Javascript learnings.md",
+    "Untitled.md"
+  ]
+}
